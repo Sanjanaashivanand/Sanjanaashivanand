@@ -1,5 +1,3 @@
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
 # 💫 About Me:
 🔭 As a computer science grad student at ASU, I'm currently navigating the fascinating world of Machine Learning  while simultaneously staying sharp in web development.<br><br>🌱 Currently exploring Remote Sensing projects & data visualization with D3.<br><br>⚡ Fun fact: my code quality is directly proportional to the volume of music blasting in my headphones!
 
